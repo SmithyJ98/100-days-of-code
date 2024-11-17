@@ -26,3 +26,12 @@
 **Thoughts:** CSS was already introduced through the beggining of the pre-course work for SoC but this is allowing me to refresh my memory and get some practice in of the basics like basic styling and using classes. Will continue and finish this tomorrow.
 
 **Link to work:** [Learn Basic CSS By Building A Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+
+### Day 4: 17/11/2024
+
+
+**Today's Progress**: Completed building the cafe menu on freecodecamp which continued making use of CSS to style.
+
+**Thoughts:** Showing off more CSS tricks that I have not been introduced to yet, such as styling links depending on things like being active or hovering, as well as starting to make use of changing display types for objects to adjust their positioning on the page.
+
+**Link to work:** [Learn Basic CSS By Building A Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
