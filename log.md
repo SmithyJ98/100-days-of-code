@@ -35,3 +35,13 @@
 **Thoughts:** Showing off more CSS tricks that I have not been introduced to yet, such as styling links depending on things like being active or hovering, as well as starting to make use of changing display types for objects to adjust their positioning on the page.
 
 **Link to work:** [Learn Basic CSS By Building A Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+
+### Day 5: 18/11/2024
+
+
+**Today's Progress**: Started the next step on freecodecamp which revolves around looking at colors in CSS and how they work up to step 60. Also published my site from before on github for the first time.
+
+**Thoughts:** First real introduction into using HEX RGB & HSL values, also learned about linear-gradients and how they work to create more realistic coloring. Learned how to publish a site on github.
+
+**Link to work:** [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers)
+                  [Odin-recipes page from precourse work on SoC](https://smithyj98.github.io/odin-recipes/)
