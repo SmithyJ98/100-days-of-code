@@ -45,3 +45,12 @@
 
 **Link to work:** [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers)
                   [Odin-recipes page from precourse work on SoC](https://smithyj98.github.io/odin-recipes/)
+
+Day 6: 19/11/2024
+
+
+**Today's Progress**: Finished the color creation section of freecodecamp. SoC had a social event for the new bootcamp that starts on the 25th.
+
+**Thoughts:** Introduced to the box-shadow property and how to use it to create backlights on objects. Met the people who I will be on the course with and taught by.
+
+**Link to work:** [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers)
