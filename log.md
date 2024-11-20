@@ -46,7 +46,7 @@
 **Link to work:** [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers)
                   [Odin-recipes page from precourse work on SoC](https://smithyj98.github.io/odin-recipes/)
 
-Day 6: 19/11/2024
+### Day 6: 19/11/2024
 
 
 **Today's Progress**: Finished the color creation section of freecodecamp. SoC had a social event for the new bootcamp that starts on the 25th.
@@ -54,3 +54,12 @@ Day 6: 19/11/2024
 **Thoughts:** Introduced to the box-shadow property and how to use it to create backlights on objects. Met the people who I will be on the course with and taught by.
 
 **Link to work:** [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers)
+
+### Day 7: 20/11/2024
+
+
+**Today's Progress**: Started the next step on freecodecamp which looks at creating a HTML form to collect data from people visiting your site. (Step 34)
+
+**Thoughts:** Mainly learning about controlling what kind of data the user can input as well as linking labels and inputs using for and id attributes.
+
+**Link to work:** [Learn HTML Forms by Building a Registration Form.](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
