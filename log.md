@@ -63,3 +63,13 @@
 **Thoughts:** Mainly learning about controlling what kind of data the user can input as well as linking labels and inputs using for and id attributes.
 
 **Link to work:** [Learn HTML Forms by Building a Registration Form.](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
+
+### Day 8: 21/11/2024
+
+
+**Today's Progress**: Completed the registration form n freecoebootcamp.
+
+**Thoughts:** Introduced the select and textarea elements for html & attribute selectors for CSS which look to be very useful for styling specific areas.
+
+**Link to work:** [Learn HTML Forms by Building a Registration Form.](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
+
