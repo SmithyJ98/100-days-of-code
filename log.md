@@ -67,9 +67,18 @@
 ### Day 8: 21/11/2024
 
 
-**Today's Progress**: Completed the registration form n freecoebootcamp.
+**Today's Progress**: Completed the registration form on freecodebootcamp.
 
 **Thoughts:** Introduced the select and textarea elements for html & attribute selectors for CSS which look to be very useful for styling specific areas.
 
 **Link to work:** [Learn HTML Forms by Building a Registration Form.](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
+
+### Day 9: 22/11/2024
+
+
+**Today's Progress**: Started the first project in freecodecamp to build a survey form based on their specification. HTML completed and will look at styling tomorrow.
+
+**Thoughts:** Enjoyed taking a less guided approach at building html to make it more realistic. 
+
+**Link to work:** [Survey form certification project](https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-survey-form-project)
 
