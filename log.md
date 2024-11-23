@@ -82,3 +82,13 @@
 
 **Link to work:** [Survey form certification project](https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-survey-form-project)
 
+### Day 10: 23/11/2024
+
+
+**Today's Progress**: Styled the previous html project with CSS to make it more visually appealing and finished off.
+
+**Thoughts:** Gave me more of a general idea of a real world scenario where things like font sizes and padding would be uniform.
+
+**Link to work:** [Survey form certification project](https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-survey-form-project)
+
+
