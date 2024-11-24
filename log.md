@@ -91,4 +91,13 @@
 
 **Link to work:** [Survey form certification project](https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-survey-form-project)
 
+### Day 11: 24/11/2024
+
+
+**Today's Progress**: Playing with different width, height, margin, padding and borders to layout different divs.
+
+**Thoughts:** I am already familiar with the basics of the box model but it did introduce me to filters, border-radius, transform and overflow.
+
+**Link to work:** [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting)
+
 
