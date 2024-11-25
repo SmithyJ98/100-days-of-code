@@ -100,4 +100,13 @@
 
 **Link to work:** [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting)
 
+### Day 12: 25/11/2024
+
+
+**Today's Progress**: Completed freecodecamp CSS task for flexbox to make things move based on the page size.
+
+**Thoughts:** Introduced many new things: flex-direction and flex-wrap when the display is set to flex, justify-content, gap, object-fit, ::after pseudo element.
+
+**Link to work:** [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
+
 
