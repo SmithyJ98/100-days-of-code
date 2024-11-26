@@ -110,3 +110,15 @@
 **Link to work:** [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
 
 
+### Day 13: 26/11/2024
+
+
+**Today's Progress**: Half way point of freecodecamps nutrition label project (Step 34)
+
+**Thoughts:** Shows off resuing classes across different areas to keep the design uniform. Also shows making dividers simply using a border-bottom enlarged.
+
+**Link to work:** [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
+![image](https://github.com/user-attachments/assets/dd4ba99b-a0f1-4169-b4cc-1145ed5548ce)
+
+
+
