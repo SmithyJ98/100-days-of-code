@@ -109,7 +109,6 @@
 
 **Link to work:** [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
 
-
 ### Day 13: 26/11/2024
 
 
@@ -119,6 +118,18 @@
 
 **Link to work:** [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
 ![image](https://github.com/user-attachments/assets/dd4ba99b-a0f1-4169-b4cc-1145ed5548ce)
+
+### Day 14: 27/11/2024
+
+
+**Today's Progress**: Completed freecodecamps nutrition label project. Also looked at CSS Diner and practiced cloning and branching in github.
+
+**Thoughts:** Shows the abundance of class use throughout the design and introduced :not(classname) to select elements that do not match the rule. Diner and github work done is SoC.
+
+**Link to work:** [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
+                  [CSS Diner](https://flukeout.github.io/)
+![image](https://github.com/user-attachments/assets/e51d246d-ff2f-4a8a-94bb-a087a67e0987)
+
 
 
 
