@@ -130,6 +130,18 @@
                   [CSS Diner](https://flukeout.github.io/)
 ![image](https://github.com/user-attachments/assets/e51d246d-ff2f-4a8a-94bb-a087a67e0987)
 
+### DAY MISSED TO FOCUS ON SCHOOL OF CODE HACKATHON
+
+### Day 15: 29/11/2024
+
+
+**Today's Progress**: Half way point of freecodecamps accessibility quiz (Step 35)
+
+**Thoughts:** Link into same page using anchor elements and ids, you can set the aspect ration in css, aria-labelledby for accessibility.
+
+**Link to work:** [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-accessibility-by-building-a-quiz)
+![image](https://github.com/user-attachments/assets/b26c807c-a091-45ce-bbcc-2cd44aca9aac)
+
 
 
 
