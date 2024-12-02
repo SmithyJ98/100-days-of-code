@@ -130,8 +130,6 @@
                   [CSS Diner](https://flukeout.github.io/)
 ![image](https://github.com/user-attachments/assets/e51d246d-ff2f-4a8a-94bb-a087a67e0987)
 
-### DAY MISSED TO FOCUS ON SCHOOL OF CODE HACKATHON
-
 ### Day 15: 29/11/2024
 
 
@@ -141,6 +139,17 @@
 
 **Link to work:** [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-accessibility-by-building-a-quiz)
 ![image](https://github.com/user-attachments/assets/b26c807c-a091-45ce-bbcc-2cd44aca9aac)
+
+### Day 16: 02/12/2024
+
+
+**Today's Progress**: First day of working on JS! We started off with a few scenarios that we had to break down and then create functions for.
+
+**Thoughts:** Need to practice the syntax as I regularly found myself missing parts or putting things in the wrong order. This should be my focus from now on for a while.
+
+**Link to work:** [week-2-js-fundamentals-101-bc18-room10](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-bc18-room10)
+![image](https://github.com/user-attachments/assets/b65d6d1c-c147-4bd4-b60b-951255aaacf0)
+
 
 
 
