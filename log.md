@@ -150,6 +150,20 @@
 **Link to work:** [week-2-js-fundamentals-101-bc18-room10](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-bc18-room10)
 ![image](https://github.com/user-attachments/assets/b65d6d1c-c147-4bd4-b60b-951255aaacf0)
 
+### Day 17: 03/12/2024
+
+
+**Today's Progress**: Looking into JS Arrays and objects
+
+**Thoughts:** Much more comfortable with these after the pair programming then the solo work afterwards.
+
+**Link to work:** [week-2-make-quiz-questions-bc18-room10](https://github.com/SchoolOfCode/week-2-make-quiz-questions-bc18-room10)
+                  [week-2-objects-bc18-room10](https://github.com/SchoolOfCode/week-2-objects-bc18-room10)
+                  [week-2-arrays-bc18-room10](https://github.com/SchoolOfCode/week-2-arrays-bc18-room10)
+                  [week-2-objects-recap-SmithyJ98](https://github.com/SchoolOfCode/week-2-objects-recap-SmithyJ98)
+                  [week-2-arrays-recap-SmithyJ98](https://github.com/SchoolOfCode/week-2-arrays-recap-SmithyJ98)
+![image](https://github.com/user-attachments/assets/7eaaf234-1180-41e1-8b3a-a557105ecee2)
+
 
 
 
