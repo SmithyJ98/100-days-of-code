@@ -164,6 +164,21 @@
                   [week-2-arrays-recap-SmithyJ98](https://github.com/SchoolOfCode/week-2-arrays-recap-SmithyJ98)
 ![image](https://github.com/user-attachments/assets/7eaaf234-1180-41e1-8b3a-a557105ecee2)
 
+### Day 18: 04/12/2024
+
+
+**Today's Progress**: Focused todays work on debugging and troubleshooting issues in code. 
+
+**Thoughts:** I need to learn to start looking from the smallest things to the largest as I spent a lot of time overcomplicating what I was looking for when the problem was something as simple as a misplaced bracket.
+
+**Link to work:**[week-2-debugging-bc18-room10](https://github.com/SchoolOfCode/week-2-debugging-bc18-room10)
+                 [week-2-debugging-customer-challenge-bc18-room10](https://github.com/SchoolOfCode/week-2-debugging-customer-challenge-bc18-room10)
+![image](https://github.com/user-attachments/assets/89ea71a5-38ca-484d-8cb2-bb277db9ad56)
+![image](https://github.com/user-attachments/assets/76a9be6c-fb75-45d6-b333-97c2f2f82cf2)
+
+
+
+
 
 
 
