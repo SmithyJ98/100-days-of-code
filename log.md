@@ -176,6 +176,15 @@
 ![image](https://github.com/user-attachments/assets/89ea71a5-38ca-484d-8cb2-bb277db9ad56)
 ![image](https://github.com/user-attachments/assets/76a9be6c-fb75-45d6-b333-97c2f2f82cf2)
 
+### Day 19: 05/12/2024
+
+
+**Today's Progress**: Today we worked on creating a game of rock paper scissors only in the console of a browser.
+
+**Thoughts:** Put what we have learned this week intro practice with variables, functions, arrays, if statements etc. Troubleshooted our issues along the way through issues on github.
+
+**Link to work:**[week-2-hackathon-rock-paper-scissors-bc18-room10](https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-room10)
+![image](https://github.com/user-attachments/assets/ef339b9f-1587-4301-a739-1ea56c150aa8)
 
 
 
