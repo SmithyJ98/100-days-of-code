@@ -186,6 +186,20 @@
 **Link to work:**[week-2-hackathon-rock-paper-scissors-bc18-room10](https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-room10)
 ![image](https://github.com/user-attachments/assets/ef339b9f-1587-4301-a739-1ea56c150aa8)
 
+### Day 20: 06/12/2024
+
+
+**Today's Progress**: Finished up the rps game from yesterday and cleaned up code. Mainly worked on aesthetics
+
+**Thoughts:** Learned how to style text in the console. Applied best practices for spacing and commenting throughout. Cleaned up code from previous day.
+
+**Link to work:**[week-2-hackathon-rock-paper-scissors-bc18-room10](https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-room10)
+![image](https://github.com/user-attachments/assets/004636af-ecd6-4115-a938-99af49f0f02a)
+![image](https://github.com/user-attachments/assets/c8926966-dd8a-4d26-8222-6ce55b825494)
+![image](https://github.com/user-attachments/assets/155d3097-1e23-4c89-bc94-82b01daee10a)
+
+
+
 
 
 
