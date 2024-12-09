@@ -198,7 +198,15 @@
 ![image](https://github.com/user-attachments/assets/c8926966-dd8a-4d26-8222-6ce55b825494)
 ![image](https://github.com/user-attachments/assets/155d3097-1e23-4c89-bc94-82b01daee10a)
 
+### Day 21: 09/12/2024
 
+
+**Today's Progress**: First look into manipulating the dom and completing pre-set tasks
+
+**Thoughts:** I found this quite difficult to wrap my head around, I'll need to practice selecting nodes I want from the tree and working with them.
+
+**Link to work:**[week-3-intro-to-the-dom-front-end-fighters]([https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-room10](https://github.com/SchoolOfCode/week-3-intro-to-the-dom-front-end-fighters))
+![image](https://github.com/user-attachments/assets/cd2e6cbb-545d-4003-8bf0-b22731952dbe)
 
 
 
