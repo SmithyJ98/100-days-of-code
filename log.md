@@ -205,10 +205,18 @@
 
 **Thoughts:** I found this quite difficult to wrap my head around, I'll need to practice selecting nodes I want from the tree and working with them.
 
-**Link to work:**[week-3-intro-to-the-dom-front-end-fighters]([https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-room10](https://github.com/SchoolOfCode/week-3-intro-to-the-dom-front-end-fighters))
+**Link to work:**[week-3-intro-to-the-dom-front-end-fighters](https://github.com/SchoolOfCode/week-3-intro-to-the-dom-front-end-fighters)
 ![image](https://github.com/user-attachments/assets/cd2e6cbb-545d-4003-8bf0-b22731952dbe)
 
+### Day 22: 09/12/2024
 
+
+**Today's Progress**: Today we looked at using events on the elements from our HTML pages in order to give it interactability, completing preset tasks.
+
+**Thoughts:** I have a bit more of a grasp that yesterday after the repetition but still not fully confident yet.
+
+**Link to work:**[week-3-dom-challenges-front-end-fighters](https://github.com/SchoolOfCode/week-3-dom-challenges-front-end-fighters)
+![image](https://github.com/user-attachments/assets/45dbd2f7-4584-4c53-87a8-ff410d71dbaf)
 
 
 
