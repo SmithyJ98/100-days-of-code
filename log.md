@@ -208,7 +208,7 @@
 **Link to work:**[week-3-intro-to-the-dom-front-end-fighters](https://github.com/SchoolOfCode/week-3-intro-to-the-dom-front-end-fighters)
 ![image](https://github.com/user-attachments/assets/cd2e6cbb-545d-4003-8bf0-b22731952dbe)
 
-### Day 22: 09/12/2024
+### Day 22: 10/12/2024
 
 
 **Today's Progress**: Today we looked at using events on the elements from our HTML pages in order to give it interactability, completing preset tasks.
@@ -218,7 +218,17 @@
 **Link to work:**[week-3-dom-challenges-front-end-fighters](https://github.com/SchoolOfCode/week-3-dom-challenges-front-end-fighters)
 ![image](https://github.com/user-attachments/assets/45dbd2f7-4584-4c53-87a8-ff410d71dbaf)
 
+### Day 23: 11/12/2024
 
+
+**Today's Progress**: Exploring API through the code by making use of async functions and fetch requests, first experience pulling from a fully external API as well as a built in one.
+
+**Thoughts:** Useful to see how the linking and pulling of data is done. Need to ensure I fully understand about the promises.
+
+**Link to work:**[week-3-fetch-mission-to-mars-front-end-fighters](https://github.com/SchoolOfCode/week-3-fetch-mission-to-mars-front-end-fighters)
+                 [week-3-dad-jokes-fetch-workshop-front-end-fighters](https://github.com/SchoolOfCode/week-3-dad-jokes-fetch-workshop-front-end-fighters)
+![image](https://github.com/user-attachments/assets/070c6845-74ae-4e1c-9df0-b026039e3906)
+![image](https://github.com/user-attachments/assets/a9e07131-9742-4cde-9252-0fea1a71b84d)
 
 
 
