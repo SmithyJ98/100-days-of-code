@@ -230,5 +230,18 @@
 ![image](https://github.com/user-attachments/assets/070c6845-74ae-4e1c-9df0-b026039e3906)
 ![image](https://github.com/user-attachments/assets/a9e07131-9742-4cde-9252-0fea1a71b84d)
 
+### Day 24: 13/12/2024
+
+
+**Today's Progress**: Pulled data from a fact producing API and make a wepage that allowed users to input a number and retrieve a fact based on diffewrnt button presses.
+
+**Thoughts:** Picking a simple API allowed us to fetch the specific data we need then push it to an article element from buttons with events.
+
+**Link to work:**[week-3-hackathon-front-end-fighters](https://github.com/SchoolOfCode/week-3-hackathon-front-end-fighters)
+![image](https://github.com/user-attachments/assets/2db19406-5c61-4efb-afcd-fdf1c2823af9)
+![image](https://github.com/user-attachments/assets/8e9164e0-daa2-4e53-a5f9-636707177055)
+![image](https://github.com/user-attachments/assets/e537c2ce-7a6d-4872-91ec-a6ad5441733e)
+![image](https://github.com/user-attachments/assets/100c689b-f528-450e-ad76-4fbb136423bd)
+
 
 
