@@ -243,5 +243,15 @@
 ![image](https://github.com/user-attachments/assets/e537c2ce-7a6d-4872-91ec-a6ad5441733e)
 ![image](https://github.com/user-attachments/assets/100c689b-f528-450e-ad76-4fbb136423bd)
 
+### Day 25: 16/12/2024
+
+
+**Today's Progress**: Reading and writing to files using node and testing from our pre-built workshop.
+
+**Thoughts:** Difficult to understand at first but once we got the initial function to get all the data, we managed to build from that and work through tasks.
+
+**Link to work:**[week-4-working-with-files-bc18-room-7](https://github.com/SchoolOfCode/week-4-working-with-files-bc18-room-7)
+![image](https://github.com/user-attachments/assets/b255a9ee-e11a-4fde-b8c0-a172cdc1772f)
+
 
 
