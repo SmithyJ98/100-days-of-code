@@ -253,5 +253,16 @@
 **Link to work:**[week-4-working-with-files-bc18-room-7](https://github.com/SchoolOfCode/week-4-working-with-files-bc18-room-7)
 ![image](https://github.com/user-attachments/assets/b255a9ee-e11a-4fde-b8c0-a172cdc1772f)
 
+### Day 26: 17/12/2024
+
+
+**Today's Progress**: Lookded into using the express module to make our own restful API
+
+**Thoughts:** Making use of npm to install modules then working with them to manage GET requests. Middleware usage. Error handling. Port routing.
+
+**Link to work:**[week-4-intro-to-express-SmithyJ98](https://github.com/SchoolOfCode/week-4-intro-to-express-SmithyJ98)  
+                 [week-4-building-a-rest-api-bc18-room-7](https://github.com/SchoolOfCode/week-4-building-a-rest-api-bc18-room-7)
+![image](https://github.com/user-attachments/assets/f0f51763-bc11-4414-b115-43c796aeef86)
+
 
 
