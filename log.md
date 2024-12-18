@@ -264,5 +264,14 @@
                  [week-4-building-a-rest-api-bc18-room-7](https://github.com/SchoolOfCode/week-4-building-a-rest-api-bc18-room-7)
 ![image](https://github.com/user-attachments/assets/f0f51763-bc11-4414-b115-43c796aeef86)
 
+### Day 27: 18/12/2024
+
+
+**Today's Progress**: Following on from yesterday with more API workshops.
+
+**Thoughts:** Working with more compelx data really slowed down progress, still not fully confident. Have got down the basics of the different types of JSON requests.
+
+**Link to work:**[week-4-restful-api-workshop-bc18-room-7](https://github.com/SchoolOfCode/week-4-restful-api-workshop-bc18-room-7) 
+![image](https://github.com/user-attachments/assets/fffc239d-093b-43ba-882d-ac7e842b30ad)
 
 
