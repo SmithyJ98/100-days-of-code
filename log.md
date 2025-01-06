@@ -274,4 +274,41 @@
 **Link to work:**[week-4-restful-api-workshop-bc18-room-7](https://github.com/SchoolOfCode/week-4-restful-api-workshop-bc18-room-7) 
 ![image](https://github.com/user-attachments/assets/fffc239d-093b-43ba-882d-ac7e842b30ad)
 
+### Day 28: 19/12/2024
+
+
+**Today's Progress**: Started creating our own API from scratch based on the England football squad at euro 2024
+
+**Thoughts:** Set up our documents and have a function GET, GET by shirtnumber, POST and DELETE requests, continuing tomorrow 
+
+**Link to work:**[week-4-rest-api-hackathon-bc18-room-7](https://github.com/SchoolOfCode/week-4-rest-api-hackathon-bc18-room-7) 
+![image](https://github.com/user-attachments/assets/b8d7bd45-5822-42f3-84f0-26f6accabe24)
+![image](https://github.com/user-attachments/assets/2915a633-c680-4d05-b548-13aa551b03cb)
+
+### Day 29: 20/12/2024
+
+
+**Today's Progress**: Completed the API we started working on yesterday. Fully tested using Postman
+
+**Thoughts:** Creating the requests were fairly straight forward, had to do research regarding the functions used throughout the project.
+
+**Link to work:**[week-4-rest-api-hackathon-bc18-room-7](https://github.com/SchoolOfCode/week-4-rest-api-hackathon-bc18-room-7)
+![image](https://github.com/user-attachments/assets/9329c05e-76f6-42fb-98af-1f65b5628afd)
+![image](https://github.com/user-attachments/assets/09ae068b-ff6f-45a2-8db0-7c1b70528985)
+![image](https://github.com/user-attachments/assets/d48c5535-fb4b-400f-ab19-c958a984fdd9)
+![image](https://github.com/user-attachments/assets/6b41cf85-a431-4744-ab1d-3f474287e4f3)
+
+### Day 30: 06/01/2025
+
+
+**Today's Progress**: Back from christmas break so looked at another API workshop to get the rust off.
+
+**Thoughts:** Completed a GET, GET by ID and got close to a POST but had issues applying the UUIDV4, need to keep up practice as skills were noticeably off.
+
+**Link to work:**[week-5-rest-api-recap-workshop-week-5-room-12](https://github.com/SchoolOfCode/week-5-rest-api-recap-workshop-week-5-room-12)
+![image](https://github.com/user-attachments/assets/3cb27f69-8894-4930-bbc9-ba5e83b9b777)
+![image](https://github.com/user-attachments/assets/76d129d4-f073-476f-a0d7-93fc23f5fa4b)
+
+
+
 
