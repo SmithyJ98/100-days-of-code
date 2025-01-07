@@ -309,6 +309,14 @@
 ![image](https://github.com/user-attachments/assets/3cb27f69-8894-4930-bbc9-ba5e83b9b777)
 ![image](https://github.com/user-attachments/assets/76d129d4-f073-476f-a0d7-93fc23f5fa4b)
 
+### Day 31: 07/01/2025
 
+
+**Today's Progress**: Starting looking at SQL and learning how to manage databases. I have a DB ready from render to use on pgadmin.
+
+**Thoughts:** Learned the basics of using the different request types to manage the data inside and filtering to what I need.
+
+**Link to work:**[Introduction to SQL](https://sqlbolt.com/)
+                 [Simple SQL Queries](https://pgexercises.com/questions/basic/)
 
 
