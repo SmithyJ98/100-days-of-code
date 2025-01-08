@@ -319,4 +319,19 @@
 **Link to work:**[Introduction to SQL](https://sqlbolt.com/)
                  [Simple SQL Queries](https://pgexercises.com/questions/basic/)
 
+### Day 32: 08/01/2025
+
+
+**Today's Progress**: Continuing with SQL by completing a few activities,looked into environmental variables, then moving onto applying the SQL into a coding environment.
+
+**Thoughts:** Understood the process of .env files and their use but took a while to grasp how the pg package worked to execute SQL queries inside of files. More comfortable with JOINS today
+
+**Link to work:**[SQL Murder Mystery](https://mystery.knightlab.com/)
+                 [Joins and Subqueries](https://pgexercises.com/questions/joins/)
+                 [Connecting Node.js to Postgres](https://github.com/SchoolOfCode/week-5-connecting-node-and-postgres-week-5-room-12)
+![image](https://github.com/user-attachments/assets/1adcb147-1c15-40d3-a021-a2a55de73994)
+![image](https://github.com/user-attachments/assets/939af808-516d-4668-a725-13ea46845815)
+
+
+
 
