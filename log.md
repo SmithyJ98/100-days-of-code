@@ -332,6 +332,24 @@
 ![image](https://github.com/user-attachments/assets/1adcb147-1c15-40d3-a021-a2a55de73994)
 ![image](https://github.com/user-attachments/assets/939af808-516d-4668-a725-13ea46845815)
 
+### Day 33: 09/01/2025
+
+
+**Today's Progress**: Begun our Hackathon to make an API with a database. Completed GET, GET by ID and POST
+
+**Thoughts:** First instance of looking into pb and setting up the documents to work with SQL and my database.
+
+**Link to work:**[AwardDB](https://github.com/SchoolOfCode/week-5-hackathon-week-5-room-12)
+![image](https://github.com/user-attachments/assets/2caf1aca-3db6-4378-84e1-dde80f3269fb)
+![image](https://github.com/user-attachments/assets/bb00da19-f101-4282-846a-d91259691d2f)
+![image](https://github.com/user-attachments/assets/6d182dda-459e-4ceb-88ba-30bf80ec600a)
+![image](https://github.com/user-attachments/assets/9742295a-ff69-495a-ac89-cefd79368aa3)
+![image](https://github.com/user-attachments/assets/b8dea9ca-0b92-46ff-a49d-41179f297f41)
+
+
+
+
+
 
 
 
