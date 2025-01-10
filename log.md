@@ -346,6 +346,17 @@
 ![image](https://github.com/user-attachments/assets/9742295a-ff69-495a-ac89-cefd79368aa3)
 ![image](https://github.com/user-attachments/assets/b8dea9ca-0b92-46ff-a49d-41179f297f41)
 
+Day 34: 10/01/2025
+
+
+**Today's Progress**: Finished up the PATCH and DELETE requests and fixed error handling to the functions.
+
+**Thoughts:**Functions were not producing the error statements when failing so we added "return result.rows.length > 0 ? result.rows[0] : null;" to turn empty results to Null which the errors worked from.
+
+**Link to work:**[AwardDB](https://github.com/SchoolOfCode/week-5-hackathon-week-5-room-12)
+![image](https://github.com/user-attachments/assets/f1621cb6-6fce-4a76-996c-4eb6d4d0eaea)
+![image](https://github.com/user-attachments/assets/0456a658-ee1a-4317-aa6d-883e2ab1ff4e)
+
 
 
 
