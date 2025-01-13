@@ -357,7 +357,15 @@ Day 34: 10/01/2025
 ![image](https://github.com/user-attachments/assets/f1621cb6-6fce-4a76-996c-4eb6d4d0eaea)
 ![image](https://github.com/user-attachments/assets/0456a658-ee1a-4317-aa6d-883e2ab1ff4e)
 
+Day 35: 13/01/2025
 
+
+**Today's Progress**: Started looking into creating our own tests for the functions we were making to ensure that they remain functional throughout development
+
+**Thoughts:** Set up using Arrange, Act and Assert. Creating tests before actually making the functions can be useful. Currently testing using vitest.
+
+**Link to work:**[Unit Testing Introduction](https://github.com/SchoolOfCode/week-6-unit-testing-introduction-jls)
+![image](https://github.com/user-attachments/assets/57726fd2-4fcc-43bc-9582-bf93c87ac671)
 
 
 
