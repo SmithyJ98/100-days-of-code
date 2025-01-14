@@ -367,6 +367,16 @@ Day 35: 13/01/2025
 **Link to work:**[Unit Testing Introduction](https://github.com/SchoolOfCode/week-6-unit-testing-introduction-jls)
 ![image](https://github.com/user-attachments/assets/57726fd2-4fcc-43bc-9582-bf93c87ac671)
 
+Day 36: 14/01/2025
+
+
+**Today's Progress**: Today I looked at doing test driven development by creating my tests before my functions to ensure development is focused or well thought through.
+
+**Thoughts:** Honestly, I preffer doing the tests after instead of before and I feel in a real working environment, the way TDD consumes more time overall would be seen as a negative that outweighs the positives of coding this way.
+
+**Link to work:**[tdd Introduction](https://github.com/SchoolOfCode/week-6-tdd-introduction-jls)
+                 [testing stratergies](https://github.com/SchoolOfCode/week-6-testing-strategies-SmithyJ98)
+![image](https://github.com/user-attachments/assets/cac812e3-491b-4085-a1e5-923c248e1ce4)
 
 
 
