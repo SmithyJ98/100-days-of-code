@@ -378,6 +378,15 @@ Day 36: 14/01/2025
                  [testing stratergies](https://github.com/SchoolOfCode/week-6-testing-strategies-SmithyJ98)
 ![image](https://github.com/user-attachments/assets/cac812e3-491b-4085-a1e5-923c248e1ce4)
 
+Day 37: 15/01/2025
+
+
+**Today's Progress**: Looked into using playwright in order to create tests after a project has been completed.
+
+**Thoughts:** Picking out specifics of elements and automating multi step proceeses for tests is extremely useful, you just need to add in the assertions after.
+
+**Link to work:**[E2E testing with Playwright](https://github.com/SchoolOfCode/week-6-end-to-end-testing-with-playwright-jls)
+![image](https://github.com/user-attachments/assets/fa9c0c89-17b2-4c71-a3ed-c14edaf93026)
 
 
 
