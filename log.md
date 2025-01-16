@@ -388,6 +388,18 @@ Day 37: 15/01/2025
 **Link to work:**[E2E testing with Playwright](https://github.com/SchoolOfCode/week-6-end-to-end-testing-with-playwright-jls)
 ![image](https://github.com/user-attachments/assets/fa9c0c89-17b2-4c71-a3ed-c14edaf93026)
 
+Day 38: 16/01/2025
+
+
+**Today's Progress**: This weeks hackathon revolved around make a Codewars type challenge where you give a prompt and an empty function for them to fill, using tests I have created to validate their answer.
+
+**Thoughts:** More revolving around the teamworking aspect and checking up on each other than coding as it was a fairly simple task. We just need to check each others in the mormimg before presenting.
+
+**Link to work:**[Week 6 Hackathon: Create a Codewars style kata](https://github.com/SchoolOfCode/week-6-hackathon-SmithyJ98)
+![image](https://github.com/user-attachments/assets/39dc4843-e4f8-445a-97e7-fe22009b18c1)
+![image](https://github.com/user-attachments/assets/52f9c305-1a08-47c9-9f13-5ec6d1908d87)
+![image](https://github.com/user-attachments/assets/3c7ac4e7-6e63-4ae4-8373-7bc348843a29)
+![image](https://github.com/user-attachments/assets/eb4501ca-9eca-43b5-b90d-f833e13461f8)
 
 
 
