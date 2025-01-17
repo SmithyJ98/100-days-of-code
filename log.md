@@ -393,7 +393,7 @@ Day 38: 16/01/2025
 
 **Today's Progress**: This weeks hackathon revolved around make a Codewars type challenge where you give a prompt and an empty function for them to fill, using tests I have created to validate their answer.
 
-**Thoughts:** More revolving around the teamworking aspect and checking up on each other than coding as it was a fairly simple task. We just need to check each others in the mormimg before presenting.
+**Thoughts:** More revolving around the teamworking aspect and checking up on each other than coding as it was a fairly simple task. We just need to check each others in the morning before presenting.
 
 **Link to work:**[Week 6 Hackathon: Create a Codewars style kata](https://github.com/SchoolOfCode/week-6-hackathon-SmithyJ98)
 ![image](https://github.com/user-attachments/assets/39dc4843-e4f8-445a-97e7-fe22009b18c1)
@@ -401,5 +401,12 @@ Day 38: 16/01/2025
 ![image](https://github.com/user-attachments/assets/3c7ac4e7-6e63-4ae4-8373-7bc348843a29)
 ![image](https://github.com/user-attachments/assets/eb4501ca-9eca-43b5-b90d-f833e13461f8)
 
+Day 39: 17/01/2025
 
+
+**Today's Progress**: Wrote up the user side ReadMe, tested another users kata and had my own reviewed. Presented our Hackathon
+
+**Thoughts:** Maybe needed to simplify my plan a bit more by making it more instructional, rather than a prompt. Used the other users tests to grasp how I needed to pass
+
+**Link to work:**[Week 6 Hackathon: Create a Codewars style kata](https://github.com/SchoolOfCode/week-6-hackathon-SmithyJ98)
 
