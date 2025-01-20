@@ -410,3 +410,17 @@ Day 39: 17/01/2025
 
 **Link to work:**[Week 6 Hackathon: Create a Codewars style kata](https://github.com/SchoolOfCode/week-6-hackathon-SmithyJ98)
 
+Day 40: 20/01/2025
+
+
+**Today's Progress**: Looked into React for the first time with the basic concepts and a simple workshop.
+
+**Thoughts:** Used JSX to use produce react elements, use props to pass values, put elements into functions so you can reuse.
+
+**Link to work:**[React 101](https://github.com/SchoolOfCode/week-7-react-101-SmithyJ98)
+![image](https://github.com/user-attachments/assets/55afcea7-4874-4365-8683-87e21d7d31e5)
+![image](https://github.com/user-attachments/assets/874569ab-9cb1-403a-8be6-915db4473745)
+
+
+
+
