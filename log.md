@@ -421,6 +421,13 @@ Day 40: 20/01/2025
 ![image](https://github.com/user-attachments/assets/55afcea7-4874-4365-8683-87e21d7d31e5)
 ![image](https://github.com/user-attachments/assets/874569ab-9cb1-403a-8be6-915db4473745)
 
+Day 41: 21/01/2025
 
+
+**Today's Progress**: Spent a good portion of today looking through the react documentation and working through the examples they have included.
+
+**Thoughts:** New things I have looked at are: rendering lists, responding to events, using states to update the screen, using Hooks and sharing data between components
+
+**Link to work:**[React Documentation](https://react.dev/learn)
 
 
