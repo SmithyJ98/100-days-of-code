@@ -430,4 +430,14 @@ Day 41: 21/01/2025
 
 **Link to work:**[React Documentation](https://react.dev/learn)
 
+Day 42: 22/01/2025
+
+
+**Today's Progress**: Attempted to create noughts and crosses using react and vite.
+
+**Thoughts:** Messed up from the start by not setting up vite correctly, so by the time all the functions were created it wouldnt push to the HTML.
+
+**Link to work:**[week-7-react-tictactoe-bc18-room1](https://github.com/SchoolOfCode/week-7-react-tictactoe-bc18-room1)
+![image](https://github.com/user-attachments/assets/d3db1e8c-3f89-43d8-a634-b4fd260c3b0e)
+
 
