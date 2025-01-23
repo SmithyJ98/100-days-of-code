@@ -440,4 +440,15 @@ Day 42: 22/01/2025
 **Link to work:**[week-7-react-tictactoe-bc18-room1](https://github.com/SchoolOfCode/week-7-react-tictactoe-bc18-room1)
 ![image](https://github.com/user-attachments/assets/d3db1e8c-3f89-43d8-a634-b4fd260c3b0e)
 
+Day 43: 23/01/2025
+
+
+**Today's Progress**:This weeks hackathon was to create an app that includes flippable flash cards with questions and answers as well as giving the option to add you own aswell. We were given a design to make.
+
+**Thoughts:** This went well, we struggled a bit with some of the CSS and put our own twist on it but the functionality went together smoothly as we took it component by component.
+
+**Link to work:**[week-7-hackathon-bc18-room1](https://github.com/SchoolOfCode/week-7-hackathon-bc18-room1)
+![image](https://github.com/user-attachments/assets/02658603-405c-4b34-b1e2-52ea8eef1a0a)
+![image](https://github.com/user-attachments/assets/9b60dec2-6d63-4b16-8fd4-a60b1e26cdfa)
+
 
