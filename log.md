@@ -451,4 +451,12 @@ Day 43: 23/01/2025
 ![image](https://github.com/user-attachments/assets/02658603-405c-4b34-b1e2-52ea8eef1a0a)
 ![image](https://github.com/user-attachments/assets/9b60dec2-6d63-4b16-8fd4-a60b1e26cdfa)
 
+Day 44: 24/01/2025
+
+
+**Today's Progress:** Continued the work from yesterday by fixing bugs and changing bits of styling.
+
+**Thoughts:** Fixed bugs for: Unable to scroll back up when adding so many rows of cards, answer text being flipped. Added scroll inside of the flashcards componenet, padding and other styling
+
+**Link to work:**[week-7-hackathon-bc18-room1](https://github.com/SchoolOfCode/week-7-hackathon-bc18-room1)
 
