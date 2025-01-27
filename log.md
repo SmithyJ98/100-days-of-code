@@ -460,3 +460,15 @@ Day 44: 24/01/2025
 
 **Link to work:**[week-7-hackathon-bc18-room1](https://github.com/SchoolOfCode/week-7-hackathon-bc18-room1)
 
+Day 45: 27/01/2025
+
+
+**Today's Progress:** Looking at spreading and slicing of arrays and objects using ... and .slice() to keep data immutable.
+
+**Thoughts:** Spread is used for pulling data out of an array or object, so it can be used again as individual values. Slice is for returning shallow copies of an array or object to a certain index value or range.
+
+**Link to work:**[Immutable Updates](https://github.com/SchoolOfCode/week-8-immutable-updates-room-2-bc18-wk8)
+![image](https://github.com/user-attachments/assets/8d3c3065-ec53-4f60-9056-d8b66e8264a0)
+
+
+
