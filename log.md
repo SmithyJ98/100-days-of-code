@@ -470,5 +470,15 @@ Day 45: 27/01/2025
 **Link to work:**[Immutable Updates](https://github.com/SchoolOfCode/week-8-immutable-updates-room-2-bc18-wk8)
 ![image](https://github.com/user-attachments/assets/8d3c3065-ec53-4f60-9056-d8b66e8264a0)
 
+Day 46: 28/01/2025
+
+
+**Today's Progress:** Looked into the react testing library as well as started looking into error boundaries.
+
+**Thoughts:** The react testing library is similar to how Vitest works except you need to render your componenet when arranging. Error boundaries seems like very good practice for the UX.
+
+**Link to work:**[React Testing Library](https://github.com/SchoolOfCode/week8-react-testing-library-room-2-bc18-wk8)
+![image](https://github.com/user-attachments/assets/0e552b2a-ff52-418f-857d-597af0dd07ca)
+
 
 
