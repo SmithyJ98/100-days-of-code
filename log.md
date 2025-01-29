@@ -480,5 +480,14 @@ Day 46: 28/01/2025
 **Link to work:**[React Testing Library](https://github.com/SchoolOfCode/week8-react-testing-library-room-2-bc18-wk8)
 ![image](https://github.com/user-attachments/assets/0e552b2a-ff52-418f-857d-597af0dd07ca)
 
+Day 47: 29/01/2025
+
+
+**Today's Progress:** Looked into react storybook and using reducers as an alternative to state
+
+**Thoughts:** Make use of useReducer when you have multiple bits of state that often change together or managing more complex state logic that involves sub-values. Storybook is a development tool used for building and testing UI components in isolation and helps to visualise components outside the main application.
+
+**Link to work:**[React Storyvbook tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
+                 [Reducer tutorial](https://react.dev/learn/extracting-state-logic-into-a-reducer)
 
 
