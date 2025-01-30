@@ -490,4 +490,18 @@ Day 47: 29/01/2025
 **Link to work:**[React Storyvbook tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
                  [Reducer tutorial](https://react.dev/learn/extracting-state-logic-into-a-reducer)
 
+Day 48: 30/01/2025
+
+
+**Today's Progress:** Started building a budgeting app using React and making use of bootstrap components
+
+**Thoughts:** We severly underestimated how much data and states we would need to keep track of and manipulating the bootstrap elements to do what we want has taken a lot of time and research. We are nearly there with a MVP so we can hopefully get that sorted tomorrow.
+
+**Link to work:**[Budget Buddy](https://github.com/SchoolOfCode/week-8-hackathon-room-2-bc18-wk8)
+![image](https://github.com/user-attachments/assets/aac58b27-df5a-4cca-ba63-3c948c61dae4)
+![image](https://github.com/user-attachments/assets/d0745528-b447-45e1-b26c-bd3cefd810a5)
+
+
+
+
 
