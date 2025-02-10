@@ -501,6 +501,26 @@ Day 48: 30/01/2025
 ![image](https://github.com/user-attachments/assets/aac58b27-df5a-4cca-ba63-3c948c61dae4)
 ![image](https://github.com/user-attachments/assets/d0745528-b447-45e1-b26c-bd3cefd810a5)
 
+Day 49: 31/01/2025
+
+
+**Today's Progress:** Finalised the budget buddy app
+
+**Thoughts:** Got the slider to work by taking the set percentile off the remainder, changed up the styling also.
+
+**Link to work:**[Budget Buddy](https://github.com/SchoolOfCode/week-8-hackathon-room-2-bc18-wk8)
+![image](https://github.com/user-attachments/assets/ecda3b67-f9b7-470d-92ab-b42bc6529f6c)
+
+
+Day 50: 10/02/2025
+
+
+**Today's Progress:** Looking into the basics of typeScript
+
+**Thoughts:** Set the type of a variable using :string =, : number = etc. This can be done with arrays to by doing : boolean[]= [true, false, true, false, true] For a funnction declare each variable in the brackets and follow it with the result type function addtion(a: number, b: number): number. Set up a type for an object using interface name {}. Set up a new type that can only have certain values using type name = option 1 | option 2
+
+**Link to work:**[TypeScript Cardio](https://github.com/SchoolOfCode/week-10-typescript-cardio-SmithyJ98)
+
 
 
 
