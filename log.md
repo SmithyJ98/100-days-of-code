@@ -521,6 +521,16 @@ Day 50: 10/02/2025
 
 **Link to work:**[TypeScript Cardio](https://github.com/SchoolOfCode/week-10-typescript-cardio-SmithyJ98)
 
+Day 51: 11/02/2025
+
+
+**Today's Progress:** Looked into Sentry and had a go at setting up  an existing project with it.
+
+**Thoughts:** Could not get this to work for me at all, tried on one of my projects then even forked a project off one of my other group members and it still would not get the initial error to finish setting up.
+
+![image](https://github.com/user-attachments/assets/f263181b-683e-4a82-86ba-3f1d1e71f904)
+
+
 
 
 
