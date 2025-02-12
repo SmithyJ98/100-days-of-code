@@ -511,7 +511,6 @@ Day 49: 31/01/2025
 **Link to work:**[Budget Buddy](https://github.com/SchoolOfCode/week-8-hackathon-room-2-bc18-wk8)
 ![image](https://github.com/user-attachments/assets/ecda3b67-f9b7-470d-92ab-b42bc6529f6c)
 
-
 Day 50: 10/02/2025
 
 
@@ -529,6 +528,21 @@ Day 51: 11/02/2025
 **Thoughts:** Could not get this to work for me at all, tried on one of my projects then even forked a project off one of my other group members and it still would not get the initial error to finish setting up.
 
 ![image](https://github.com/user-attachments/assets/f263181b-683e-4a82-86ba-3f1d1e71f904)
+
+Day 52: 12/02/2025
+
+
+**Today's Progress:** Reading through the docs for using next.js and used AI to make a basic page that we could look through and see the comparisons between normal react and this.
+
+**Thoughts:** Using VO, we got together a card flipping app using next.js which used tailwind CSS. From here, we could see the similarities with basic react on how things like state and props are used, but the core difference was how the root was setup in the layout.js to render our app.
+
+**Link to work:**[Card Flipper app](https://github.com/chargrace/next.js-app)
+![image](https://github.com/user-attachments/assets/f46f50d6-116f-4254-9002-5a681fa39361)
+![image](https://github.com/user-attachments/assets/e702c2f2-1db1-4dff-8b78-1f9fa4f6d0f5)
+
+
+
+
 
 
 
