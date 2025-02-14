@@ -540,7 +540,14 @@ Day 52: 12/02/2025
 ![image](https://github.com/user-attachments/assets/f46f50d6-116f-4254-9002-5a681fa39361)
 ![image](https://github.com/user-attachments/assets/e702c2f2-1db1-4dff-8b78-1f9fa4f6d0f5)
 
+Day 53 & 54: 13/02/2025 & 14/02/2025
 
+
+**Today's Progress:** Created a basic memory game app with the goal of using as much devops tools, techniques and mindset as possible.
+
+**Thoughts:** Worked through using the CI/CD pipeline to decide how the app would be built and what it would use. Some of the tools we ended up deciding on were: Figma, V0, Github Actions, Docker, Vercel and Sentry. We managed to get our app working quickly thanks to V0 and then we started to look into the Actions. Our first plan was to automate built in test checks whenever someone pushed or made a pull request to main but we ran into compatibility issues when using Jest, then trying to switch to Vitest caused different problems which ultimately lead to us leaving it due to our time constraints. Instead, we added CodeQL and dependabot for some basic checks and update automation. From there, created our docker container but had issues trying to get our github project in there, so we moved to deploy it using Vercel but we ran out of time to go back and reconfigure our docker container to get the Vercel deployed app inside. We also did not have the time to get Sentry up and running.
+
+**Link to work:**[Memory Game](https://week-10-hackathon-bc18-room6-omega.vercel.app/)
 
 
 
