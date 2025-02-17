@@ -549,7 +549,15 @@ Day 53 & 54: 13/02/2025 & 14/02/2025
 
 **Link to work:**[Memory Game](https://week-10-hackathon-bc18-room6-omega.vercel.app/)
 
+Day 55: 17/02/2025
 
+
+**Today's Progress:** Looked into security processes I could add the existing projects.
+
+**Thoughts:** The main one I focused on was the middleware helmet. This was really easy to get setup on my projects and it assists in securing my application by setting specified HTTP headers to reduced vulnerabilities.
+
+![image](https://github.com/user-attachments/assets/dc4bef4b-f902-4512-8cbc-1ad8f27151ec)
+![image](https://github.com/user-attachments/assets/160ebf1d-843d-47fb-a8e4-608d497117a1)
 
 
 
