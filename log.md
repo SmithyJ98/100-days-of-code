@@ -559,7 +559,12 @@ Day 55: 17/02/2025
 ![image](https://github.com/user-attachments/assets/dc4bef4b-f902-4512-8cbc-1ad8f27151ec)
 ![image](https://github.com/user-attachments/assets/160ebf1d-843d-47fb-a8e4-608d497117a1)
 
+Day 56: 18/02/2025
 
+
+**Today's Progress:** Investigated realtime database solutions for login use on my apps.
+
+**Thoughts:** Started off looking into Supabase which is fairly simple to get setup and working and allows for multiple ways of setting up and managing logins such as emails or third party apps. We also looked into Clerk which was similar but offered a bit more when it came to development such as prebuilt componenets for the UI, but we were limited to 2 login options for the free version.
 
 
 
