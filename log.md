@@ -566,6 +566,20 @@ Day 56: 18/02/2025
 
 **Thoughts:** Started off looking into Supabase which is fairly simple to get setup and working and allows for multiple ways of setting up and managing logins such as emails or third party apps. We also looked into Clerk which was similar but offered a bit more when it came to development such as prebuilt componenets for the UI, but we were limited to 2 login options for the free version.
 
+Day 57: 19/02/2025
+
+
+**Today's Progress:** Created a weather app in next.js using typescript
+
+**Thoughts:** Used this as an opportunity to use typescript within a react environment. We made us of the open-meteo weather api to get our data and tailwind to style our project. Looked into using fuselagem to try and incorperate a particle component but had difficulty pulling the full functionality in of it moving based on cursor placement. Nearly got there with allowing it to also call from a postcode using postcode.io to get the lattitude and longitude them plug that into a request for open-meteo but struggled for time.
+
+**Link to work:**[Weather App](https://github.com/SchoolOfCode/week-11-typescript-weather-app-jjnk)
+![image](https://github.com/user-attachments/assets/58c4b199-2987-404c-b9ca-2be5d792187f)
+![image](https://github.com/user-attachments/assets/ac9e6aad-7c37-4912-b4b3-94be8f5ed4c4)
+![image](https://github.com/user-attachments/assets/d610e4d2-9c45-4359-9f8e-ec0d117c2409)
+
+
+
 
 
 
