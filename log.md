@@ -587,6 +587,19 @@ Day 58: 20/02/2025
 
 **Link to work:**[What are SQL Joins?](https://www.youtube.com/watch?v=p4YxQhKsWQ0)
 
+Day 59: 21/02/2025
+
+
+**Today's Progress:** Went back to the weather API to see if I could fix the previous features we couldn't get working.
+
+**Thoughts:** I've managed to get the functionality working for the particle background so it now moves with the cursor. I have also included the functionality to be able to put a postcode into the search box and still get the weather result by using postcode.io to get the latitude and longitude of a postcode and plug into the normal API call. The I finally made it so that the input is checked for if a number is used in the search term, then it will use the postcode function over the normal one.
+
+**Link to work:**[My Weather App](https://github.com/SmithyJ98/Weather-App)
+![image](https://github.com/user-attachments/assets/4bd88391-5c85-41f2-9af1-b291c8bf06fd)
+![image](https://github.com/user-attachments/assets/73c36ac4-0a67-4210-9083-6ce9a606798b)
+![image](https://github.com/user-attachments/assets/1127869a-b4ae-451d-b56a-e3510714c7b9)
+
+
 
 
 
