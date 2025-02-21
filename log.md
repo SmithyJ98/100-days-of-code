@@ -578,7 +578,14 @@ Day 57: 19/02/2025
 ![image](https://github.com/user-attachments/assets/ac9e6aad-7c37-4912-b4b3-94be8f5ed4c4)
 ![image](https://github.com/user-attachments/assets/d610e4d2-9c45-4359-9f8e-ec0d117c2409)
 
+Day 58: 20/02/2025
 
+
+**Today's Progress:** Created an educational piece on SQL Joins
+
+**Thoughts:** I was tasked with creating an educational piece regarding something we have learned on our Bootcamp, in order to not only help others, but test that we can articulate what we have learned so far in a clear and concise way.As I felt a real connection with the week on Database Analysis and SQL , I decided to spring together a quick video discussing SQL Joins and what the most common types are that you may use when working with related data over multiple tables.
+
+**Link to work:**[What are SQL Joins?](https://www.youtube.com/watch?v=p4YxQhKsWQ0)
 
 
 
