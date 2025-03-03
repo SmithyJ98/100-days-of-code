@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71b06902-ab97-462d-bbbb-39690410d8fa)# 100 Days Of Code - Log
+# 100 Days Of Code - Log
 
 ### Day 1: 14/11/2024
 
