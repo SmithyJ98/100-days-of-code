@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+![image](https://github.com/user-attachments/assets/71b06902-ab97-462d-bbbb-39690410d8fa)# 100 Days Of Code - Log
 
 ### Day 1: 14/11/2024
 
@@ -598,6 +598,16 @@ Day 59: 21/02/2025
 ![image](https://github.com/user-attachments/assets/4bd88391-5c85-41f2-9af1-b291c8bf06fd)
 ![image](https://github.com/user-attachments/assets/73c36ac4-0a67-4210-9083-6ce9a606798b)
 ![image](https://github.com/user-attachments/assets/1127869a-b4ae-451d-b56a-e3510714c7b9)
+
+Day 60: 03/03/2025
+
+
+**Today's Progress:** Today was the first day of our week long project. This day was for ideation between the team and setting out our manifesto for how we are going to work.
+
+**Thoughts:** We setup a figjam board to allow everyone to get their base ideas down for what we wanted to create in the week, as we were not given any kind of specification for what it to be built. We ultimately landed on an idea to create a trivia game that would store hiscores into a database so it can be displayed on a leaderboard for all players along with pulling the questions and answers from an API. We are going to look into socket.io to see if we can set up multiplayer lobbies so players can compete against each other.
+
+![image](https://github.com/user-attachments/assets/60d75a42-23df-428f-a4e5-5198436c2df8)
+
 
 
 
