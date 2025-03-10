@@ -608,8 +608,58 @@ Day 60: 03/03/2025
 
 ![image](https://github.com/user-attachments/assets/60d75a42-23df-428f-a4e5-5198436c2df8)
 
+Day 61: 04/03/2025
+
+
+**Today's Progress:** Now that we have the idea for our project, we moved on to thinking about the overall design of the application and how we wanted it to function. Here is also where we decided on the tech stack we would be using.
+
+**Thoughts:** Furthering the previously setout Figjam board we have, we decided to do some Crazy 8s which is where we get 8 minutes to draw 8 designs for a part of our app in order to give everyone a chance to share what their view of the applciation would look like and then, we can take parts from different designs to come up with a finale choice. These final designs where then laid out in a basic wireframe/box styling format so we can have a general idea of what it will look like so we can plan the users journey out. To finalise and be ready for tomorrow, we setout our tech stack: React, Vite, TypeScript, Node.js, Express, Socket.io, Supabase. The front end would be deployed on Vercel with the back end being deployed on Render.
+
+![image](https://github.com/user-attachments/assets/be0b3fe6-f8f9-43d8-9e3b-5824256d7b34)
+![image](https://github.com/user-attachments/assets/11256d82-d206-4c2e-9e0f-d0928ec9a322)
 
 
 
+Day 62: 05/03/2025
+
+
+**Today's Progress:** With the design and tech stack decided, our main goals for today were to initialise our repo, setup our files, deploy the front and back end, then work on MVP 1 which was simply getting the quiz questions from the back to the front.
+
+**Thoughts:** We started off initialising the project and setting up basic file structure and routing. Once these were in place, we setup a basic template front end to test that we were able to properly view them using npm run dev for both the front and back end, once this was confirmed we then setup the front end deployment for Vercel and the server for Render. In this early stage, my job was to get the data we needed onto our front end, so I worked on fetching the data we wanted through the opentdb API onto our backend into a basic array that we could work with. Once we had this, I pointed another API call from the front end to our deployed back end to get this array and allow us to manipulate the data so we only got the parts we wanted, being the questions, right answer and incorrect answer.
+
+**Link to work:**[Live Project - Quizmania](https://final-project-quiz-mania.vercel.app/)
+                 [Back end live](https://quiz-mania-ug0x.onrender.com/api/questions)
+                 [Project Repo](https://github.com/SchoolOfCode/final-project-airon-chefs)
+
+Day 63: 06/03/2025
+
+
+**Today's Progress:** Continued development of our app.
+
+**Thoughts:** The team continued to work on their other area's as individuals and brought them back together using pull requests that were checked by the team for conflicts. Jermaine got the oauth login setup with Supabase, Carmen worked on the testing using Jest, Ashton worked on the front end design, Tim worked on the CI/CD aspects of the project such as automated testing, deployment and linting, Sergio got the multiplayer aspects of Socket.io up and running. I worked on implementing a scoring system for getting a point on correct answers as well as a timer to move to the next question once it hit the 10 second limit.
+
+**Link to work:**[Live Project - Quizmania](https://final-project-quiz-mania.vercel.app/)
+                 [Back end live](https://quiz-mania-ug0x.onrender.com/api/questions)
+                 [Project Repo](https://github.com/SchoolOfCode/final-project-airon-chefs)
+
+Day 64: 07/03/2025
+
+
+**Today's Progress:** To wrap up, we wrote up our readme file for the project and then worked on, and gave our presentation.
+
+**Thoughts:** The readme consisted of: Problem Statement, Solution, Tech Stack, Setup & Installation, Features, Challenges & Learnings, Future Improvements and Contributors. We then delivered our presentation to our fellow bootcampers, SoC alumni such as mentors, past bootcampers & speakers, and potential employers for the local community. We divided out the presentation so we would all get the chance to talk, with myself talking about the planning phase, and we recieved overall positive feedback and had a lot of interaction from the chat.
+
+**Link to work:**[Live Project - Quizmania](https://final-project-quiz-mania.vercel.app/)
+                 [Back end live](https://quiz-mania-ug0x.onrender.com/api/questions)
+                 [Project Repo](https://github.com/SchoolOfCode/final-project-airon-chefs)
+
+Day 65: 10/03/2025
+
+
+**Today's Progress:** As we initially setup our final project on a joint SoC repo, I am looking at forking and changing it to work for me personally so it can go on my portfolio. This needs to be done as the front end deployment was done with a free trial that runs out in 2 weeks as it comes from a business (SoC) github account. Todays focus was the oauth and login.
+
+**Thoughts:** To begin, I forked the repo to my personal Github and redeployed the front end on Vercel so I had something to work with. The first problem I run into was that the login screen and oauth would need to be redone as Jermaine worked on this and it was also currently setup to redirect to the home page of the group repo. I setup my Supabase and got my URL and API key to swap over into the code and then turned off the preset of using E-mail and setup an oauth login using GitHub by connecting them through the ID. Finally I changed the redirect URL link to the home page of my new deployment so now I can get past the login.
+
+**Link to work:**[New personal deployment](https://quizmania-eosin.vercel.app/)
 
 
