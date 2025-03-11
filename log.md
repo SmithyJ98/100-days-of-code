@@ -662,4 +662,13 @@ Day 65: 10/03/2025
 
 **Link to work:**[New personal deployment](https://quizmania-eosin.vercel.app/)
 
+Day 66: 11/03/2025
 
+
+**Today's Progress:** Today, I needed to redeploy my backend onto Render and reroute the call from the front end and the socket context.
+
+**Thoughts:** First time deploying to render myself and discovered how to only deploy part of the repo (server folder). Readjusted the API call to pull from https://quizmania-backend-g3dt.onrender.com/api/questions and the socket context to pull from https://quizmania-backend-g3dt.onrender.com/. The app now successfully plays for both signle and multiplayer in my own deployments and is at the same state the group project was at for its deployment.
+
+**Link to work:**[New personal deployment](https://quizmania-eosin.vercel.app/)
+                 [Personal Backend](https://quizmania-backend-g3dt.onrender.com/api/questions)
+                 [Personal Deployment](https://github.com/SmithyJ98/Quizmania)
